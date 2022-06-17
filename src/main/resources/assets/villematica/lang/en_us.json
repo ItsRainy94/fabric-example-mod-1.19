@@ -1,5 +1,8 @@
 {
   "item.villematica.ender_dust": "Ender Dust",
+  "item.villematica.ender_shard": "Ender Shard",
+  "item.villematica.ender_amulet": "Ender Amulet",
+
 
   "itemGroup.villematica.ender": "Ender Items",
   "itemGroup.villematica.corrupt": "Corrupted Items"
