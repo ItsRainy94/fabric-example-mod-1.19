@@ -2,8 +2,11 @@
   "item.villematica.ender_dust": "Ender Dust",
   "item.villematica.ender_shard": "Ender Shard",
   "item.villematica.ender_amulet": "Ender Amulet",
+  "item.villematica.nether_dust": "Nether Dust",
+  "item.villematica.nether_shard": "Nether Shard",
+  "item.villematica.nether_amulet": "Nether Amulet",
 
 
   "itemGroup.villematica.ender": "Ender Items",
-  "itemGroup.villematica.corrupt": "Corrupted Items"
+  "itemGroup.villematica.cursed": "Cursed Items"
 }
